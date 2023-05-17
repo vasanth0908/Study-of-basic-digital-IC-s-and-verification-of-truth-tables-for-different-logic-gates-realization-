@@ -78,9 +78,19 @@ endmodule
 
 Logic symbol & Truthtable
 
+![TTL](https://github.com/vasanth0908/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/122000018/aa7ed7ff-b7bf-404e-9192-3a850ff06e4e)
+
+
 RTL realization
 
+![BLG1](https://github.com/vasanth0908/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/122000018/33eda5e7-4b6a-435a-a02f-a6867cd9d7a0)
+
+
 Output:
+
+![BLG2](https://github.com/vasanth0908/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/122000018/d0ba4dec-1ebe-40ed-a5fb-c5226b50a4c0)
+
+
 
 RTL
 
